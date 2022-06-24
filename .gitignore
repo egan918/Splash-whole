@@ -1,0 +1,32 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# production
+
+# misc
+.DS_Store
+
+/node_modules
+
+# packages
+/frontend/packages/common/dist
+/frontend/packages/common/node_modules
+
+# web2
+/frontend/packages/web2/node_modules
+/frontend/packages/web2/.env
+/frontend/packages/web2/build
+# web 3
+/frontend/packages/web3/node_modules
+/frontend/packages/web3/.next
+/frontend/packages/web3/.env
+/frontend/packages/web3/build
+/build
+
+# web 3 release
+/frontend/packages/web3_release/.next
+/frontend/packages/web3_release/node_modules
+/frontend/packages/web3_release/.env
+
+
+/backend/vendor
+/backend/.env
