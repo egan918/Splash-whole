@@ -1,6 +1,5 @@
 # Freshcart Monorepo Backend Service
-
-[![GKE Build/Deploy](https://github.com/freshcart/monorepo-backend/actions/workflows/gcloud-deploy.yml/badge.svg)](https://github.com/freshcart/monorepo-backend/actions/workflows/gcloud-deploy.yml)
+##introduction
 
 #### Some Important Commands for local development
 
