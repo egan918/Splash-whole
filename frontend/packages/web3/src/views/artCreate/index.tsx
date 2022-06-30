@@ -102,7 +102,6 @@ export const ArtCreateView = () => {
     else gotoStep(0);
   }, [step_param, gotoStep]);
 
-  // store files
   const mint = async () => {
     const metadata = {
       name: attributes.name,
